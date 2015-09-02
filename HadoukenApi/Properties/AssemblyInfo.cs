@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HadoukenApi")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Hadouken JSON-RPC API for C#")]
+[assembly: AssemblyDescription("Provides a C# interface for Hadouken using the JSON-RPC API.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HadoukenApi")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyProduct("Hadouken JSON-RPC API for C#")]
+[assembly: AssemblyCopyright("Copyright ©  2015 Tylor Pater")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
