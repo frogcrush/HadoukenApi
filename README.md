@@ -1,0 +1,1 @@
+This is my work-in-progress C# wrapper for the Hadouken (https://github.com/hadouken/hadouken) JSON-RPC API. It's a work-in-progress and many things are going to change, but feel free to make a pull request with suggestions on changes!
